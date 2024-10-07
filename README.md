@@ -15,8 +15,12 @@ Este proyecto procesa una imagen usando opencv para luego con un modelo preentre
 - opencv4
 - OpenMP
 
-## Instalacion
-
+### Instalacion
+Para instalar opencv4
+```
+sudo apt update
+sudo apt install libopencv-dev
+```
 ### Compilacion
 ```
 make
